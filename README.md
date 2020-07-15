@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I am a full stack developer
-📫 How to reach me: zubairanis74@gmail.com
-🌱 I’m currently learning: Currently working on react and nodejs
+### 🌱 I’m currently learning: Currently working on react and nodejs
+### 📫 How to reach me: zubairanis74@gmail.com
 
 
 <!--
