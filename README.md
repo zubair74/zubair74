@@ -1,4 +1,8 @@
 ### Hi there 👋
+### I am a full stack developer
+📫 How to reach me: zubairanis74@gmail.com
+🌱 I’m currently learning: Currently working on react and nodejs
+
 
 <!--
 **zubair74/zubair74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
