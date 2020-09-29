@@ -6,10 +6,10 @@
 ### 1. Mern Stack Web Application with AI Chatbot for mental health patients
 ### https://stark-island-44284.herokuapp.com/
 ### 2. Covid-19 Map Tracker
-### 
+### https://covid-19-locator-eeffa.web.app/
 ### 3. Covid-19 Statistics App
-###
-### 📫 How to reach me: zubairanis74@gmail.com
+### http://mycovid19-tracker.surge.sh/
+### Email: zubairanis74@gmail.com
 
 
 <!--
