@@ -5,6 +5,10 @@
 ### Popular projects:
 ### 1. Mern Stack Web Application with AI Chatbot for mental health patients
 ### https://stark-island-44284.herokuapp.com/
+### 2. Covid-19 Map Tracker
+### 
+### 3. Covid-19 Statistics App
+###
 ### 📫 How to reach me: zubairanis74@gmail.com
 
 
