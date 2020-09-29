@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### I am a full stack developer
-### 🌱 I’m currently learning: Currently working on react and nodejs
+### Experties: React Js, Node Js, Express Js and MongoDB
 ### 📫 How to reach me: zubairanis74@gmail.com
 
 
