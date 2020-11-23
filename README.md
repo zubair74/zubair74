@@ -32,7 +32,7 @@ https://my-portfolio-e84fc.web.app/
 🌐 https://covid-19-locator-eeffa.web.app/
 ##### Covid-19 Statistics App (React Js)
 🌐 http://mycovid19-tracker.surge.sh/
-##### Shoe Store App (React Js)
+##### Ecommerce Shoe Store (MERN Stack) 
 🌐 http://nikeshoe-store.surge.sh/
 
 
@@ -42,6 +42,3 @@ zubairanis74@gmail.com
 
 ### Linkedin
 https://www.linkedin.com/in/zubair-anis-3699b5190
-
-
-
