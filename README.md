@@ -14,6 +14,31 @@
 ### Email: zubairanis74@gmail.com
 
 
+
+An enthusiastic Full Stack Developer who is passionate about new technologies 😃
+🔭 I am currently working on Javascript
+🌱 I am currently learning Next.js & Graphql
+💫 Looking to contribute to open-source
+🔥 Tech Stack :
+
+⚡️ Fronted :
+Javascript Typescript React Redux Sass Gatsby
+
+⚡️ Backend :
+NodeJs Express Python
+
+⚡️ Other :
+Firebase Linux Mongodb
+
+🌟 Learning :
+Netlify MySql NextJs GraphQl
+
+🤝 Connect with me:
+  
+
+
+
+
 <!--
 **zubair74/zubair74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
