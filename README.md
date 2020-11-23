@@ -3,6 +3,7 @@
 I am a Full Stack Javascript Developer with experites in frontend and backend development.
 
 
+
 #### Frontend
 
 HTML, CSS, Javascript, Bootstrap, React JS and Material UI 
@@ -16,9 +17,11 @@ Node JS, Express JS and Flask
 MongoDB
 
 
+
 #### My Portfolio
 
 https://my-portfolio-e84fc.web.app/
+
 
 
 #### Popular projects:
@@ -33,7 +36,9 @@ http://mycovid19-tracker.surge.sh/
 http://nikeshoe-store.surge.sh/
 
 
-#### Email: zubairanis74@gmail.com
+
+#### Email: 
+zubairanis74@gmail.com
 
 
 
