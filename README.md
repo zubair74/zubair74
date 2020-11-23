@@ -1,4 +1,4 @@
-### Zubair Anis
+## Zubair Anis
 
 I am a Full Stack Javascript Developer with experites in frontend and backend development.
 
@@ -18,13 +18,13 @@ MongoDB
 
 
 
-#### My Portfolio
+### My Portfolio
 
 https://my-portfolio-e84fc.web.app/
 
 
 
-#### Popular projects:
+### Popular projects:
 
 ##### 1. Mern Stack Progressive Web App with AI Chatbot for mental health patients
  https://stark-island-44284.herokuapp.com/
@@ -37,10 +37,10 @@ http://nikeshoe-store.surge.sh/
 
 
 
-#### Email: 
+### Email: 
 zubairanis74@gmail.com
 
-#### Linkedin
+### Linkedin
 https://www.linkedin.com/in/zubair-anis-3699b5190
 
 
