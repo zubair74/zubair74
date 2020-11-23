@@ -1,6 +1,6 @@
 ## Zubair Anis
 
-I am a Full Stack Javascript Developer with experites in frontend and backend development.
+I am a Full Stack Javascript Developer having experites in Frontend and Backend development.
 
 
 
