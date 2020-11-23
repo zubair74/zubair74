@@ -2,15 +2,15 @@
 
 I am a Full Stack Javascript Developer with experites in frontend and backend development.
 
-Frontend
+#### Frontend
 
 HTML, CSS, Javascript, Bootstrap, React JS and Material UI 
 
-Backend
+#### Backend
 
 Node JS, Express JS and Flask
 
-Database
+#### Database
 
 MongoDB
 
