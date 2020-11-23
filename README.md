@@ -40,9 +40,8 @@ http://nikeshoe-store.surge.sh/
 #### Email: 
 zubairanis74@gmail.com
 
-
-
-
+#### Linkedin
+https://www.linkedin.com/in/zubair-anis-3699b5190
 
 
 
