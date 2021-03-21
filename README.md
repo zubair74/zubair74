@@ -1,8 +1,6 @@
 ## Zubair Anis
 
-I am a Full Stack Javascript Developer having experites in Frontend and Backend development.
-
-
+Full Stack Engineer having experites in Frontend and Backend development.
 
 #### Frontend
 
@@ -10,18 +8,16 @@ HTML, CSS, Javascript, Bootstrap, React JS and Material UI
 
 #### Backend
 
-Node JS, Express JS and Flask
+Node JS, PHP, Java, python
 
 #### Database
 
-MongoDB
+MYSQL, PostgreSQL, MongoDB
 
 
-
-### My Portfolio
+### Portfolio
 
 https://my-portfolio-e84fc.web.app/
-
 
 
 ### Popular projects:
@@ -34,7 +30,6 @@ https://my-portfolio-e84fc.web.app/
 🌐 http://mycovid19-tracker.surge.sh/
 ##### Ecommerce Shoe Store (MERN Stack) 
 🌐 http://nikeshoe-store.surge.sh/
-
 
 
 ### Email: 
