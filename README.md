@@ -1,39 +1,11 @@
-## Zubair Anis
+wave wave wave
 
-Full Stack Engineer having experites in Frontend and Backend development.
+Hey, welcome to my profile. I'am Zubair, Full Stack Engineer by Profession and a Proud Pakistani. My passion lies in converting creative ideas into attractive, highly engaging and scalable Software!
 
-#### Frontend
+:heavy_heart_exclamation: Favorite Tech : Javascript, TypeScript, Node, Python
 
-HTML, CSS, Javascript, Bootstrap, React JS and Material UI 
+Favorite Quote: Good Software, like wine, takes time - Joel Spolsky
 
-#### Backend
+notebook Currently Learning: Design Patterns, Clean Architecture, Data Structures and Algorithms. 
 
-Node JS, PHP, Java, python
-
-#### Database
-
-MYSQL, PostgreSQL, MongoDB
-
-
-### Portfolio
-
-https://my-portfolio-e84fc.web.app/
-
-
-### Popular projects:
-
-##### Mern Stack Progressive Web App with AI Chatbot for mental health patients
-🌐 https://stark-island-44284.herokuapp.com/
-##### Covid-19 Map Tracker (Vanilla Js)
-🌐 https://covid-19-locator-eeffa.web.app/
-##### Covid-19 Statistics App (React Js)
-🌐 http://mycovid19-tracker.surge.sh/
-##### Ecommerce Shoe Store (MERN Stack) 
-🌐 http://nikeshoe-store.surge.sh/
-
-
-### Email: 
-zubairanis74@gmail.com
-
-### Linkedin
-https://www.linkedin.com/in/zubair-anis-3699b5190
+Linkedin: https://www.linkedin.com/in/zubair-anis-3699b5190
