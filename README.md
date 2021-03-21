@@ -4,7 +4,7 @@
 
 :heavy_heart_exclamation: Favorite Tech : Javascript, TypeScript, Node, Python
 
-Favorite Quote: Good Software, like wine, takes time - Joel Spolsky
+:boom: Favorite Quote: Good Software, like wine, takes time - Joel Spolsky
 
 :notebook: Currently Learning: Design Patterns, Clean Architecture, Data Structures and Algorithms.
 
