@@ -6,7 +6,6 @@
 
 Favorite Quote: Good Software, like wine, takes time - Joel Spolsky
 
-:notebook: Currently Learning: Design Patterns, Clean Architecture, Data Structures and Algorithms. 
+:notebook: Currently Learning: Design Patterns, Clean Architecture, Data Structures and Algorithms.
 
-:email: Email: zubairanis74@gmail.com
-briefcase Linkedin: https://www.linkedin.com/in/zubair-anis-3699b5190
+:briefcase: Linkedin: https://www.linkedin.com/in/zubair-anis-3699b5190
