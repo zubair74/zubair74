@@ -2,7 +2,7 @@
 
 :man_technologist: Hey, welcome to my profile. I'am Zubair, Full Stack Engineer by Profession and a Proud Pakistani. My passion lies in converting creative ideas into attractive, highly engaging and scalable Software!
 
-:heavy_heart_exclamation: Favorite Tech : Javascript, TypeScript, Node, Python
+:heavy_heart_exclamation: Favorite Tech : Javascript, TypeScript, Node, Python ...
 
 :boom: Favorite Quote: Good Software, like wine, takes time - Joel Spolsky
 
