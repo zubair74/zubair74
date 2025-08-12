@@ -38,6 +38,12 @@ I turn complex ideas into **clean, maintainable, and production-ready software**
 
 ---
 
+## 🌐 Portfolio
+Check out my projects and experience on my portfolio website:  
+[https://my-portfolio-e84fc.web.app/](https://my-portfolio-e84fc.web.app/)
+
+---
+
 ## 📈 GitHub Stats
 ![Zubair's GitHub stats](https://github-readme-stats.vercel.app/api?username=zubairanis&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zubairanis&layout=compact&theme=tokyonight)
